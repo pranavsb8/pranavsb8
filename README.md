@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavsb8
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Data structures in c and cpp
+- 🌱 I’m currently learning Data structures in c and java
 - 💞️ I’m looking to collaborate with web developers
 - 📫 How to reach me on linkedIn Pranav S.Bharadwaj 
 
